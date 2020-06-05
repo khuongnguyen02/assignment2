@@ -1,6 +1,6 @@
 body{
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 
@@ -10,8 +10,8 @@ body{
 
 #div2{
     text-align: left;
-    border-bottom: solid 0.8px;
-    border-top: 1px solid;
+    border-top: 1px solid ;
+    
     border-bottom-color: red;
     border-top-color: red;
 }
@@ -22,6 +22,10 @@ h3{
 
 pre{
     text-align: center;
+}
+
+#div3{
+    text-align: left;
 }
 
 /*h3{*/
