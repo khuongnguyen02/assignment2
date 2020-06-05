@@ -21,8 +21,7 @@ img{
 #div2{
     text-align: left;
     border-top: 1px solid ;
-    
-    border-bottom-color: red;
+    border-bottom-style: dotted;
     border-top-color: red;
 }
 
