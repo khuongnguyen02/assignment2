@@ -1,3 +1,15 @@
 #div1{
     text-align: right;
 }
+
+#div2{
+    text-align: center;
+    border-bottom: solid 1px;
+    border-top: 1px solid;
+    border-bottom-color: red;
+    border-top-color: red;
+}
+
+/*h3{*/
+/*    font-weight: ;*/
+/*}*/
